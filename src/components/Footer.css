@@ -1,0 +1,10 @@
+.bulk{
+  background-color: #FFFEFA;
+  padding: 30px;
+  position: fixed bottom;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+}
